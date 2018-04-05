@@ -1800,6 +1800,32 @@ body {
 .cid-qOnkA53wUz .social-list a:focus {
   text-decoration: none;
 }
+.cid-qOnUUqnSCE {
+  padding-top: 60px;
+  padding-bottom: 60px;
+  background: #ffffff;
+}
+.cid-qOnUUqnSCE .video-block {
+  margin: auto;
+}
+@media (max-width: 768px) {
+  .cid-qOnUUqnSCE .video-block {
+    width: 100% !important;
+  }
+}
+.cid-qOnUZSFvqB {
+  padding-top: 60px;
+  padding-bottom: 60px;
+  background: #ffffff;
+}
+.cid-qOnUZSFvqB .video-block {
+  margin: auto;
+}
+@media (max-width: 768px) {
+  .cid-qOnUZSFvqB .video-block {
+    width: 100% !important;
+  }
+}
 .cid-qOnkSPViK8 {
   padding-top: 60px;
   padding-bottom: 60px;
